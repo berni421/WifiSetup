@@ -14,10 +14,10 @@
     <string name="disclaimer_accept">I accept these terms.</string>
     <string name="dont_show_next_time">Do not show next time?</string>
     <string name="intro_welcome">Welcome
-        \n\nProvides direct access to bluetooth settings.
+        \n\nProvides direct access to wifi settings.
         </string>
     <string name="intro_welcome2">Put the application icon on your home screen and click to start
-        and stop bluetooth connections.
+        and stop wifi connections.
     </string>
     <string name="into_donate_text">Please make a financial gift of your choice to support my software projects.
         See menu options top right - help feed the cat.</string>
